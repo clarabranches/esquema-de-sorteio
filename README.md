@@ -17,8 +17,8 @@ Para realização do projeto foi necessario Realizar o armazenamento das variave
 - ``Python 3.12.4``
 
 ## ▶ Inicialização
-Esse projeto foi densevolvido no sistema operacional Windows utilizando o programa VSCode 
-E nele foram utilizadas as bibliotecas Time e Random
+Esse projeto foi densevolvido no sistema operacional Windows utilizando o programa ``VSCode`` 
+E nele foram utilizadas as bibliotecas ``Time`` e ``Random``
 
 ## 🔮 Implementações Futuras
 - Jogar novamente
