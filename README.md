@@ -23,7 +23,7 @@ E nele foram utilizadas as bibliotecas Time e Random
 <h2>🔮 Implementações Futuras</h2>
 
 <h2>✅ Status do Projeto</h2>
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-<h2>Colaboradores</h2>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+
 
 <h2>📝 Referências</h2>
