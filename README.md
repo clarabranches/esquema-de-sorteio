@@ -17,8 +17,9 @@ Para realização do projeto foi necessario Realizar o armazenamento das variave
 - ``Python 3.12.4``
 
 ## ▶ Inicialização
-Esse projeto foi densevolvido no sistema operacional Windows utilizando o programa ``VSCode`` 
-E nele foram utilizadas as bibliotecas ``Time`` e ``Random``
+Esse projeto foi densevolvido no sistema operacional Windows utilizando o programa ``VSCode``, nele foram utilizadas as bibliotecas ``Time`` e ``Random``
+
+Para instalar o ``VSCode``: https://www.youtube.com/watch?v=iLraM_NZYfA
 
 ## 🔮 Implementações Futuras
 - Jogar novamente
@@ -26,5 +27,3 @@ E nele foram utilizadas as bibliotecas ``Time`` e ``Random``
 ## ✅ Status do Projeto
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 
-
-## 📝 Referências
