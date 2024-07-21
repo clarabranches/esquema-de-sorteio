@@ -5,7 +5,7 @@ Esse projeto é uma simulação de um casa de aposta, onde o usuário pode escol
 Caso o usuário ganhe a aposta ele recebe o valor apostado em dobro.
 Para realização do projeto foi necessario Realizar o armazenamento das variaveis utilizadas, o sorteio de prioridade de probabilidade, o sorteio do item (cara, coroa ou empate) e recalcular o valor das moedas do usuário.
 
-## 🛠️ Funcionalidades
+## 🛠️ Algoritmo
 - Armazernar o item apostado
 - Armazenar o valor apostado
 - Realizar sorteio para definir o item com maior probabilidade
